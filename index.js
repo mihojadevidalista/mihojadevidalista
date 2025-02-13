@@ -1650,7 +1650,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Carga la URL en una ventana nueva del navegador.
 		*/
-		window.open('https://youtu.be/pE9ZcsGFcpE', '_blank');
+		window.open('https://youtu.be/gTrCWjaRk0k?si=OzAxoo1bWB8YtE30', '_blank');
 		});
 		var _this = this;
 		/*
